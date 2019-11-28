@@ -1,2 +1,3 @@
 # CellMetric
-Exadata Cell Metric to ElasticSearch
+Exadata Cell Metric config file for logstash 
+
